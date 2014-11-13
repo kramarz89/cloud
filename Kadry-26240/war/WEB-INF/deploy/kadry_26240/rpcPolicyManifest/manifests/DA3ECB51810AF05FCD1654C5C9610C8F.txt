@@ -1,0 +1,2 @@
+serviceClass: kadry_26240.client.KadryService
+path: D6519AC06EC7427893E784CB01E2D853.gwt.rpc
