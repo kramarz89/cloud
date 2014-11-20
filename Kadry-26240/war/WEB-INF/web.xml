@@ -17,6 +17,16 @@
 <url-pattern>/kadry_26240/kadry</url-pattern>
 </servlet-mapping>
 
+<servlet>
+<servlet-name>PersonService</servlet-name>
+<servlet-class>kadry_26240.server.PersonServiceImpl</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>PersonService</servlet-name>
+<url-pattern>/kadry_26240/person</url-pattern>
+</servlet-mapping>
+
   <!-- Default page to serve -->
   <welcome-file-list>
     <welcome-file>Kadry_26240.html</welcome-file>

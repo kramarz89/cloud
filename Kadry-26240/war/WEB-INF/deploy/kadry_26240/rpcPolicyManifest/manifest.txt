@@ -1,3 +1,4 @@
 # Module kadry_26240
 # RPC service class, partial path of RPC policy file
+kadry_26240.client.PersonService, 8F06E73E0F28D616DDAFF75F3D1257D3.gwt.rpc
 kadry_26240.client.KadryService, D6519AC06EC7427893E784CB01E2D853.gwt.rpc
